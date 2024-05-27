@@ -2,6 +2,8 @@
 
 Deployed Server link: https://audiobook-backend.onrender.com/api/audiobooks
 
+Deployed Application Link: https://audiobook-frontend.onrender.com/
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
