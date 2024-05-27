@@ -43,7 +43,18 @@ The application is built using a **MERN (MongoDB, Express, React, Node.js)** sta
   - **Components**: Contains React components for different parts of the application.
   - **Services**: Contains API call functions.
 
+#### Overall Application Architecture
+![mermaid-diagram-2024-05-27-112926](https://github.com/adarshpalaskar1/audiobook-backend/assets/83298237/acda7d09-6b8a-4a23-9432-2b0f832676e4)
+
+#### User Interaction Flow
+![mermaid-diagram-2024-05-27-113044](https://github.com/adarshpalaskar1/audiobook-backend/assets/83298237/483f607a-84ec-4944-8215-a77dbc07ce55)
+
+
 ## API Usage
+
+### API Request Handling
+
+![mermaid-diagram-2024-05-27-114601](https://github.com/adarshpalaskar1/audiobook-backend/assets/83298237/3fa4b9f7-2b50-4dbf-ad6b-33a23007eb63)
 
 ### Base URL
 
