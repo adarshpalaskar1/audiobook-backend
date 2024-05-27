@@ -10,6 +10,12 @@
    - [Post a Review](#post-a-review)
 4. [Deployment Steps](#deployment-steps)
 
+## Landing Page with list of all audiobooks
+![Audiobooks-Catalogue](https://github.com/adarshpalaskar1/audiobook-frontend/assets/83298237/00f0fd3b-e815-4172-98f5-a9d1f2d2c00e)
+
+## Details for each audiobook
+![Audiobooks-Catalogue (1)](https://github.com/adarshpalaskar1/audiobook-frontend/assets/83298237/b2a8ef4b-cc82-46a5-8caa-a514356d51d0)
+
 ## Introduction
 
 This documentation provides an overview of the application, including its architecture, API usage, and steps for deployment. The application allows users to browse audiobooks, view details, and post reviews.
